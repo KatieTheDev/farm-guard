@@ -93,12 +93,14 @@ For older changes, please see the [change log](https://github.com/fsvreddit/hive
 
 ## Feedback
 
-If you have been banned by a subreddit using Hive Protector, please contact the subreddit that banned you.
+If you have been banned by a subreddit using Farm Guard, please contact the subreddit that banned you.
 
 For any feedback on the bot itself including bugs and enhancements, please post in /r/fsvapps or DM /u/fsv.
 
 ## Source code
 
-This app is open source. You can find it on Github [here](https://github.com/fsvreddit/hive-protect).
+This app is open source. You can find it on Github [here](https://github.com/KatieTheDev/farm-guard/).
+
+This is based on Hive Protect. 
 
 With thanks to /u/Quick-Pumpkin-1259 for their contributions to the app's code.
