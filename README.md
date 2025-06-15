@@ -1,4 +1,6 @@
-# Hive Protector
+# Farm Guard
+
+Fork of hive-protect for use by anyone who wishes to prevent new untrusted source code from making it through. 
 
 A Reddit app that can be used to ban, report or remove content from users of "undesirable" subreddits from participating in another. Originally inspired by SafestBot.
 
